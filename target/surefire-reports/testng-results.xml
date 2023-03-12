@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T00:17:40 AST" name="Suite" finished-at="2023-02-28T00:18:03 AST" duration-ms="22817">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T00:17:40 AST" name="Test" finished-at="2023-02-28T00:18:03 AST" duration-ms="22817">
+      <class name="tests.GetSingleProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GetSingleProductTest@15dcfae7]" started-at="2023-02-28T00:17:43 AST" name="setup" finished-at="2023-02-28T00:17:43 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="GetSingleProductById()[pri:0, instance:tests.GetSingleProductTest@15dcfae7]" started-at="2023-02-28T00:17:43 AST" name="GetSingleProductById" finished-at="2023-02-28T00:17:46 AST" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleProductById -->
+        <test-method signature="VerifyResponseTime()[pri:0, instance:tests.GetSingleProductTest@15dcfae7]" started-at="2023-02-28T00:17:46 AST" name="VerifyResponseTime" finished-at="2023-02-28T00:17:46 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseTime -->
+        <test-method signature="VerifyResponseBody()[pri:0, instance:tests.GetSingleProductTest@15dcfae7]" started-at="2023-02-28T00:17:46 AST" name="VerifyResponseBody" finished-at="2023-02-28T00:17:46 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseBody -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:tests.GetSingleProductTest@15dcfae7]" started-at="2023-02-28T00:17:46 AST" name="VerifyStatusCode" finished-at="2023-02-28T00:17:46 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyStatusCode -->
+      </class> <!-- tests.GetSingleProductTest -->
+      <class name="tests.DeleteProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.DeleteProductTest@52851b44]" started-at="2023-02-28T00:18:00 AST" name="setup" finished-at="2023-02-28T00:18:00 AST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="DeleteProduct()[pri:0, instance:tests.DeleteProductTest@52851b44]" started-at="2023-02-28T00:18:00 AST" name="DeleteProduct" finished-at="2023-02-28T00:18:03 AST" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProduct -->
+        <test-method signature="Verifyjsonbody()[pri:0, instance:tests.DeleteProductTest@52851b44]" started-at="2023-02-28T00:18:03 AST" name="Verifyjsonbody" finished-at="2023-02-28T00:18:03 AST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyjsonbody -->
+        <test-method signature="VerifyResponseTime()[pri:0, instance:tests.DeleteProductTest@52851b44]" started-at="2023-02-28T00:18:03 AST" name="VerifyResponseTime" finished-at="2023-02-28T00:18:03 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseTime -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:tests.DeleteProductTest@52851b44]" started-at="2023-02-28T00:18:03 AST" name="VerifyStatusCode" finished-at="2023-02-28T00:18:03 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyStatusCode -->
+      </class> <!-- tests.DeleteProductTest -->
+      <class name="tests.GetAllProductsCategeriesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GetAllProductsCategeriesTest@1199fe66]" started-at="2023-02-28T00:17:54 AST" name="setup" finished-at="2023-02-28T00:17:54 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getallproductcategeries()[pri:0, instance:tests.GetAllProductsCategeriesTest@1199fe66]" started-at="2023-02-28T00:17:54 AST" name="getallproductcategeries" finished-at="2023-02-28T00:17:57 AST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallproductcategeries -->
+        <test-method signature="verifyResponseTime()[pri:0, instance:tests.GetAllProductsCategeriesTest@1199fe66]" started-at="2023-02-28T00:17:57 AST" name="verifyResponseTime" finished-at="2023-02-28T00:17:57 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponseTime -->
+        <test-method signature="verifystatuscode()[pri:0, instance:tests.GetAllProductsCategeriesTest@1199fe66]" started-at="2023-02-28T00:17:57 AST" name="verifystatuscode" finished-at="2023-02-28T00:17:57 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifystatuscode -->
+      </class> <!-- tests.GetAllProductsCategeriesTest -->
+      <class name="tests.AddProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:49 AST" name="setup" finished-at="2023-02-28T00:17:49 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="addProduct()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:49 AST" name="addProduct" finished-at="2023-02-28T00:17:52 AST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:52 AST" name="VerifyStatusCode" finished-at="2023-02-28T00:17:52 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyStatusCode -->
+        <test-method signature="VerifyResponseBody()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:52 AST" name="VerifyResponseBody" finished-at="2023-02-28T00:17:52 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseBody -->
+        <test-method signature="VerifyResponseBodyValue()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:52 AST" name="VerifyResponseBodyValue" finished-at="2023-02-28T00:17:52 AST" depends-on-methods="tests.AddProductTest.VerifyResponseBody" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseBodyValue -->
+        <test-method signature="VerifyResponseTime()[pri:0, instance:tests.AddProductTest@25bfcafd]" started-at="2023-02-28T00:17:52 AST" name="VerifyResponseTime" finished-at="2023-02-28T00:17:52 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseTime -->
+      </class> <!-- tests.AddProductTest -->
+      <class name="tests.SearchProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchProductTest@635572a7]" started-at="2023-02-28T00:17:46 AST" name="setup" finished-at="2023-02-28T00:17:46 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="searchProduct()[pri:0, instance:tests.SearchProductTest@635572a7]" started-at="2023-02-28T00:17:46 AST" name="searchProduct" finished-at="2023-02-28T00:17:49 AST" duration-ms="3245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="verifyResponseTime()[pri:0, instance:tests.SearchProductTest@635572a7]" started-at="2023-02-28T00:17:49 AST" name="verifyResponseTime" finished-at="2023-02-28T00:17:49 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponseTime -->
+        <test-method signature="verifyStatusCode()[pri:0, instance:tests.SearchProductTest@635572a7]" started-at="2023-02-28T00:17:49 AST" name="verifyStatusCode" finished-at="2023-02-28T00:17:49 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCode -->
+      </class> <!-- tests.SearchProductTest -->
+      <class name="tests.GetProductOfCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GetProductOfCategoryTest@69653e16]" started-at="2023-02-28T00:17:57 AST" name="setup" finished-at="2023-02-28T00:17:57 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getProductOfCatagory()[pri:0, instance:tests.GetProductOfCategoryTest@69653e16]" started-at="2023-02-28T00:17:57 AST" name="getProductOfCatagory" finished-at="2023-02-28T00:18:00 AST" duration-ms="3177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductOfCatagory -->
+        <test-method signature="verifystatusCode()[pri:0, instance:tests.GetProductOfCategoryTest@69653e16]" started-at="2023-02-28T00:18:00 AST" name="verifystatusCode" finished-at="2023-02-28T00:18:00 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifystatusCode -->
+        <test-method signature="verifyResponseTime()[pri:0, instance:tests.GetProductOfCategoryTest@69653e16]" started-at="2023-02-28T00:18:00 AST" name="verifyResponseTime" finished-at="2023-02-28T00:18:00 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponseTime -->
+      </class> <!-- tests.GetProductOfCategoryTest -->
+      <class name="tests.UpdateProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.UpdateProductTest@6179e425]" started-at="2023-02-28T00:17:52 AST" name="setup" finished-at="2023-02-28T00:17:52 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="UpdateProductbyid()[pri:0, instance:tests.UpdateProductTest@6179e425]" started-at="2023-02-28T00:17:52 AST" name="UpdateProductbyid" finished-at="2023-02-28T00:17:54 AST" duration-ms="2185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateProductbyid -->
+        <test-method signature="VerifyResponseTime()[pri:0, instance:tests.UpdateProductTest@6179e425]" started-at="2023-02-28T00:17:54 AST" name="VerifyResponseTime" finished-at="2023-02-28T00:17:54 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseTime -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:tests.UpdateProductTest@6179e425]" started-at="2023-02-28T00:17:54 AST" name="VerifyStatusCode" finished-at="2023-02-28T00:17:54 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyStatusCode -->
+      </class> <!-- tests.UpdateProductTest -->
+      <class name="tests.GetAllProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GetAllProductTest@253d9f73]" started-at="2023-02-28T00:17:40 AST" name="setup" finished-at="2023-02-28T00:17:40 AST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="GetAllProducts()[pri:0, instance:tests.GetAllProductTest@253d9f73]" started-at="2023-02-28T00:17:40 AST" name="GetAllProducts" finished-at="2023-02-28T00:17:43 AST" duration-ms="2836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllProducts -->
+        <test-method signature="VerifyResponseTime()[pri:0, instance:tests.GetAllProductTest@253d9f73]" started-at="2023-02-28T00:17:43 AST" name="VerifyResponseTime" finished-at="2023-02-28T00:17:43 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResponseTime -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:tests.GetAllProductTest@253d9f73]" started-at="2023-02-28T00:17:43 AST" name="VerifyStatusCode" finished-at="2023-02-28T00:17:43 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyStatusCode -->
+      </class> <!-- tests.GetAllProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

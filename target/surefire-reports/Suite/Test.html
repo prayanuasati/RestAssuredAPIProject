@@ -1,0 +1,180 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Feb 28 00:17:40 AST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>22 seconds (22817 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.GetAllProductTest.VerifyResponseTime()'><b>VerifyResponseTime</b><br>Test class: tests.GetAllProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetAllProductTest@253d9f73</td></tr>
+<tr>
+<td title='tests.GetSingleProductTest.VerifyResponseTime()'><b>VerifyResponseTime</b><br>Test class: tests.GetSingleProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetSingleProductTest@15dcfae7</td></tr>
+<tr>
+<td title='tests.GetProductOfCategoryTest.verifystatusCode()'><b>verifystatusCode</b><br>Test class: tests.GetProductOfCategoryTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetProductOfCategoryTest@69653e16</td></tr>
+<tr>
+<td title='tests.AddProductTest.VerifyStatusCode()'><b>VerifyStatusCode</b><br>Test class: tests.AddProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.AddProductTest@25bfcafd</td></tr>
+<tr>
+<td title='tests.GetProductOfCategoryTest.verifyResponseTime()'><b>verifyResponseTime</b><br>Test class: tests.GetProductOfCategoryTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetProductOfCategoryTest@69653e16</td></tr>
+<tr>
+<td title='tests.AddProductTest.VerifyResponseBody()'><b>VerifyResponseBody</b><br>Test class: tests.AddProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.AddProductTest@25bfcafd</td></tr>
+<tr>
+<td title='tests.SearchProductTest.verifyResponseTime()'><b>verifyResponseTime</b><br>Test class: tests.SearchProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.SearchProductTest@635572a7</td></tr>
+<tr>
+<td title='tests.GetAllProductTest.VerifyStatusCode()'><b>VerifyStatusCode</b><br>Test class: tests.GetAllProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetAllProductTest@253d9f73</td></tr>
+<tr>
+<td title='tests.GetSingleProductTest.VerifyResponseBody()'><b>VerifyResponseBody</b><br>Test class: tests.GetSingleProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetSingleProductTest@15dcfae7</td></tr>
+<tr>
+<td title='tests.GetSingleProductTest.VerifyStatusCode()'><b>VerifyStatusCode</b><br>Test class: tests.GetSingleProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetSingleProductTest@15dcfae7</td></tr>
+<tr>
+<td title='tests.DeleteProductTest.Verifyjsonbody()'><b>Verifyjsonbody</b><br>Test class: tests.DeleteProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.DeleteProductTest@52851b44</td></tr>
+<tr>
+<td title='tests.GetAllProductsCategeriesTest.verifyResponseTime()'><b>verifyResponseTime</b><br>Test class: tests.GetAllProductsCategeriesTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetAllProductsCategeriesTest@1199fe66</td></tr>
+<tr>
+<td title='tests.DeleteProductTest.VerifyResponseTime()'><b>VerifyResponseTime</b><br>Test class: tests.DeleteProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.DeleteProductTest@52851b44</td></tr>
+<tr>
+<td title='tests.AddProductTest.VerifyResponseBodyValue()'><b>VerifyResponseBodyValue</b><br>Test class: tests.AddProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.AddProductTest@25bfcafd</td></tr>
+<tr>
+<td title='tests.UpdateProductTest.VerifyResponseTime()'><b>VerifyResponseTime</b><br>Test class: tests.UpdateProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.UpdateProductTest@6179e425</td></tr>
+<tr>
+<td title='tests.UpdateProductTest.VerifyStatusCode()'><b>VerifyStatusCode</b><br>Test class: tests.UpdateProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.UpdateProductTest@6179e425</td></tr>
+<tr>
+<td title='tests.DeleteProductTest.VerifyStatusCode()'><b>VerifyStatusCode</b><br>Test class: tests.DeleteProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.DeleteProductTest@52851b44</td></tr>
+<tr>
+<td title='tests.SearchProductTest.verifyStatusCode()'><b>verifyStatusCode</b><br>Test class: tests.SearchProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.SearchProductTest@635572a7</td></tr>
+<tr>
+<td title='tests.AddProductTest.VerifyResponseTime()'><b>VerifyResponseTime</b><br>Test class: tests.AddProductTest</td>
+<td></td>
+<td>0</td>
+<td>tests.AddProductTest@25bfcafd</td></tr>
+<tr>
+<td title='tests.GetAllProductsCategeriesTest.verifystatuscode()'><b>verifystatuscode</b><br>Test class: tests.GetAllProductsCategeriesTest</td>
+<td></td>
+<td>0</td>
+<td>tests.GetAllProductsCategeriesTest@1199fe66</td></tr>
+</table><p>
+</body>
+</html>

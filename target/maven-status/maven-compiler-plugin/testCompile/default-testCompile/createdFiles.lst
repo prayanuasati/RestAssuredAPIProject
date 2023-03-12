@@ -1,0 +1,11 @@
+base\TestBase.class
+tests\GetAllProductTest.class
+tests\GetSingleProductTest.class
+tests\DeleteProductTest.class
+tests\AddProductTest.class
+tests\GetProductOfCategoryTest.class
+tests\UpdateProductTest.class
+utilities\Listeners.class
+utilities\Xls_Reader.class
+tests\SearchProductTest.class
+tests\GetAllProductsCategeriesTest.class

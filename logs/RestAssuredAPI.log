@@ -1,0 +1,1024 @@
+26/02/2023 18:00:11 devpinoyLogger ----------------------verifying all product API--------------------
+26/02/2023 18:00:14 devpinoyLogger Verifying Response time
+26/02/2023 18:00:14 devpinoyLogger response time is 614
+26/02/2023 18:00:14 devpinoyLogger Verifying status code
+26/02/2023 18:00:14 devpinoyLogger Status code is 200
+
+26/02/2023 18:00:14 devpinoyLogger ------------------Get Single Product API----------------
+26/02/2023 18:00:14 devpinoyLogger Verifying Response Body
+26/02/2023 18:00:14 devpinoyLogger Response Body :{"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 18:00:14 devpinoyLogger Verifying Response Time
+26/02/2023 18:00:14 devpinoyLogger Response time is 169
+26/02/2023 18:00:14 devpinoyLogger Verifying status code
+26/02/2023 18:00:14 devpinoyLogger Status code is 200
+26/02/2023 18:00:14 devpinoyLogger -------searchProduct-------
+26/02/2023 18:00:17 devpinoyLogger verifyResponseTime
+26/02/2023 18:00:17 devpinoyLogger ResponseTime is 163
+26/02/2023 18:00:17 devpinoyLogger verifyStatusCode
+26/02/2023 18:00:17 devpinoyLogger statuscode is 200
+26/02/2023 18:00:17 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 18:00:19 devpinoyLogger Verifying Response Body
+26/02/2023 18:00:19 devpinoyLogger Response Body :{"id":101}
+26/02/2023 18:00:19 devpinoyLogger Verifying Response time
+26/02/2023 18:00:19 devpinoyLogger response time is 183
+26/02/2023 18:00:19 devpinoyLogger Verifying status code
+26/02/2023 18:00:19 devpinoyLogger Status code is 200
+26/02/2023 18:00:19 devpinoyLogger Verifying json body
+26/02/2023 18:00:19 devpinoyLogger json Body is io.restassured.internal.RestAssuredResponseImpl@436bd4df
+26/02/2023 18:00:20 devpinoyLogger ----------------------verifying update product API--------------------
+26/02/2023 18:00:22 devpinoyLogger Verifying Response time
+26/02/2023 18:00:22 devpinoyLogger response time is 159
+26/02/2023 18:00:22 devpinoyLogger Verifying status code
+26/02/2023 18:00:22 devpinoyLogger Status code is 200
+26/02/2023 18:00:22 devpinoyLogger ------getallproductcategeries-----
+26/02/2023 18:00:25 devpinoyLogger verifyResponseTime
+26/02/2023 18:00:25 devpinoyLogger verifystatuscode
+26/02/2023 18:00:25 devpinoyLogger -------getProductOfCatagory------
+26/02/2023 18:00:28 devpinoyLogger ResponseTime
+26/02/2023 18:00:28 devpinoyLogger ResponseTime is 186
+26/02/2023 18:00:28 devpinoyLogger verifystatusCode
+26/02/2023 18:00:28 devpinoyLogger statuscode is 200
+26/02/2023 18:00:28 devpinoyLogger ----------------------verifying Delete product API--------------------
+26/02/2023 18:00:31 devpinoyLogger Verifying Response time
+26/02/2023 18:00:31 devpinoyLogger response time is 160
+26/02/2023 18:00:31 devpinoyLogger Verifying status code
+26/02/2023 18:00:31 devpinoyLogger Status code is 200
+26/02/2023 18:00:31 devpinoyLogger Verifying json body
+26/02/2023 18:00:31 devpinoyLogger json Body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-26T22:00:29.084Z"}
+26/02/2023 18:22:05 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 18:22:08 devpinoyLogger Verifying Response Body
+26/02/2023 18:22:08 devpinoyLogger Response Body :{"id":101}
+26/02/2023 18:22:08 devpinoyLogger Verifying Response time
+26/02/2023 18:22:08 devpinoyLogger response time is 658
+26/02/2023 18:22:08 devpinoyLogger Verifying status code
+26/02/2023 18:22:08 devpinoyLogger Status code is 200
+26/02/2023 18:22:08 devpinoyLogger Verifying json body
+26/02/2023 18:22:08 devpinoyLogger json Body value is io.restassured.internal.RestAssuredResponseImpl@1dbd580
+26/02/2023 18:22:52 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 18:22:55 devpinoyLogger Verifying Response Body
+26/02/2023 18:22:55 devpinoyLogger Response Body :{"id":101}
+26/02/2023 18:22:55 devpinoyLogger Verifying Response time
+26/02/2023 18:22:55 devpinoyLogger response time is 626
+26/02/2023 18:22:55 devpinoyLogger Verifying status code
+26/02/2023 18:22:55 devpinoyLogger Status code is 200
+26/02/2023 18:22:55 devpinoyLogger Verifying json body
+26/02/2023 18:22:55 devpinoyLogger json Body value is {"id":101}
+26/02/2023 18:28:49 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 18:28:52 devpinoyLogger Verifying Response Body
+26/02/2023 18:28:52 devpinoyLogger Response Body :{"id":101}
+26/02/2023 18:28:52 devpinoyLogger 
+26/02/2023 18:28:52 devpinoyLogger Verifying Response time
+26/02/2023 18:28:52 devpinoyLogger response time is 626
+26/02/2023 18:28:52 devpinoyLogger 
+26/02/2023 18:28:52 devpinoyLogger Verifying status code
+26/02/2023 18:28:52 devpinoyLogger Status code is 200
+26/02/2023 18:28:52 devpinoyLogger 
+26/02/2023 18:28:52 devpinoyLogger Verifying json body value
+26/02/2023 18:28:52 devpinoyLogger json Body is {"id":101}
+26/02/2023 18:28:53 devpinoyLogger 
+26/02/2023 22:18:48 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+26/02/2023 22:18:52 devpinoyLogger Verifying Status Code
+26/02/2023 22:18:52 devpinoyLogger Status code is 200
+26/02/2023 22:20:33 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+26/02/2023 22:20:37 devpinoyLogger Verifying Response Time
+26/02/2023 22:20:37 devpinoyLogger Response time is 637
+26/02/2023 22:20:37 devpinoyLogger Verifying Status Code
+26/02/2023 22:20:37 devpinoyLogger Status code is 200
+26/02/2023 22:20:59 devpinoyLogger -------------------Verifying Get All product API-----------------------
+26/02/2023 22:21:02 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:02 devpinoyLogger Response time is 625
+26/02/2023 22:21:02 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:02 devpinoyLogger Status code is 200
+26/02/2023 22:21:02 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:21:02 devpinoyLogger Verifying Response Body
+26/02/2023 22:21:02 devpinoyLogger Response body is {"message":"Product with id 'id' not found"}
+26/02/2023 22:21:02 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:02 devpinoyLogger Response time is 181
+26/02/2023 22:21:02 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:02 devpinoyLogger Status code is 404
+26/02/2023 22:21:02 devpinoyLogger ----------------------Verifying Search Product API--------------------
+26/02/2023 22:21:06 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:06 devpinoyLogger Response time is 186
+26/02/2023 22:21:06 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:06 devpinoyLogger Status code is 200
+26/02/2023 22:21:06 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 22:21:08 devpinoyLogger Verifying Response Body
+26/02/2023 22:21:08 devpinoyLogger Response body is {"id":101}
+26/02/2023 22:21:08 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:08 devpinoyLogger Response time is 201
+26/02/2023 22:21:08 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:08 devpinoyLogger Status code is 200
+26/02/2023 22:21:08 devpinoyLogger Verifying Response Body Value
+26/02/2023 22:21:08 devpinoyLogger Response body value is {"id":101}
+26/02/2023 22:21:08 devpinoyLogger ----------------------Verifying Update Product API--------------------
+26/02/2023 22:21:11 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:11 devpinoyLogger Response time is 163
+26/02/2023 22:21:11 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:11 devpinoyLogger Status code is 404
+26/02/2023 22:21:11 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+26/02/2023 22:21:14 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:14 devpinoyLogger Response time is 169
+26/02/2023 22:21:14 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:14 devpinoyLogger Status code is 200
+26/02/2023 22:21:14 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+26/02/2023 22:21:17 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:17 devpinoyLogger Response time is 176
+26/02/2023 22:21:17 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:17 devpinoyLogger Status code is 200
+26/02/2023 22:21:17 devpinoyLogger -------------------verifying Delete product API-----------------------
+26/02/2023 22:21:19 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:19 devpinoyLogger Response time is 158
+26/02/2023 22:21:19 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:19 devpinoyLogger Status code is 404
+26/02/2023 22:21:19 devpinoyLogger Verifying Response Body
+26/02/2023 22:21:19 devpinoyLogger Response body is {"message":"Product with id 'id' not found"}
+26/02/2023 22:21:54 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:21:55 devpinoyLogger Verifying Response Body
+26/02/2023 22:21:55 devpinoyLogger Response body is {"message":"Product with id 'id' not found"}
+26/02/2023 22:21:55 devpinoyLogger Verifying Response Time
+26/02/2023 22:21:55 devpinoyLogger Response time is 643
+26/02/2023 22:21:55 devpinoyLogger Verifying Status Code
+26/02/2023 22:21:55 devpinoyLogger Status code is 404
+26/02/2023 22:24:59 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:25:03 devpinoyLogger Verifying Response Body
+26/02/2023 22:25:03 devpinoyLogger Response body is {"message":"Product with id 'id' not found"}
+26/02/2023 22:25:03 devpinoyLogger Verifying Response Time
+26/02/2023 22:25:03 devpinoyLogger Response time is 634
+26/02/2023 22:25:03 devpinoyLogger Verifying Status Code
+26/02/2023 22:25:03 devpinoyLogger Status code is 404
+26/02/2023 22:26:13 devpinoyLogger -------------------Verifying Get All product API-----------------------
+26/02/2023 22:26:17 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:17 devpinoyLogger Response time is 660
+26/02/2023 22:26:17 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:17 devpinoyLogger Status code is 200
+26/02/2023 22:26:17 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:26:20 devpinoyLogger Verifying Response Body
+26/02/2023 22:26:20 devpinoyLogger Response body is {"message":"Product with id '1.0' not found"}
+26/02/2023 22:26:20 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:20 devpinoyLogger Response time is 195
+26/02/2023 22:26:20 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:20 devpinoyLogger Status code is 404
+26/02/2023 22:26:20 devpinoyLogger ----------------------Verifying Search Product API--------------------
+26/02/2023 22:26:23 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:23 devpinoyLogger Response time is 177
+26/02/2023 22:26:23 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:23 devpinoyLogger Status code is 200
+26/02/2023 22:26:23 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 22:26:25 devpinoyLogger Verifying Response Body
+26/02/2023 22:26:25 devpinoyLogger Response body is {"id":101}
+26/02/2023 22:26:25 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:25 devpinoyLogger Response time is 169
+26/02/2023 22:26:25 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:25 devpinoyLogger Status code is 200
+26/02/2023 22:26:25 devpinoyLogger Verifying Response Body Value
+26/02/2023 22:26:25 devpinoyLogger Response body value is {"id":101}
+26/02/2023 22:26:26 devpinoyLogger ----------------------Verifying Update Product API--------------------
+26/02/2023 22:26:28 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:28 devpinoyLogger Response time is 169
+26/02/2023 22:26:28 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:28 devpinoyLogger Status code is 404
+26/02/2023 22:26:28 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+26/02/2023 22:26:31 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:31 devpinoyLogger Response time is 187
+26/02/2023 22:26:31 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:31 devpinoyLogger Status code is 200
+26/02/2023 22:26:31 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+26/02/2023 22:26:34 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:34 devpinoyLogger Response time is 177
+26/02/2023 22:26:34 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:34 devpinoyLogger Status code is 200
+26/02/2023 22:26:34 devpinoyLogger -------------------verifying Delete product API-----------------------
+26/02/2023 22:26:37 devpinoyLogger Verifying Response Time
+26/02/2023 22:26:37 devpinoyLogger Response time is 172
+26/02/2023 22:26:37 devpinoyLogger Verifying Status Code
+26/02/2023 22:26:37 devpinoyLogger Status code is 404
+26/02/2023 22:26:37 devpinoyLogger Verifying Response Body
+26/02/2023 22:26:37 devpinoyLogger Response body is {"message":"Product with id '1.0' not found"}
+26/02/2023 22:27:59 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:28:03 devpinoyLogger Verifying Response Body
+26/02/2023 22:28:03 devpinoyLogger Response body is {"message":"Product with id '1.0' not found"}
+26/02/2023 22:28:03 devpinoyLogger Verifying Response Time
+26/02/2023 22:28:03 devpinoyLogger Response time is 723
+26/02/2023 22:28:03 devpinoyLogger Verifying Status Code
+26/02/2023 22:28:03 devpinoyLogger Status code is 404
+26/02/2023 22:29:10 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:29:14 devpinoyLogger Verifying Response Body
+26/02/2023 22:29:14 devpinoyLogger Response body is {"message":"Product with id '1.0' not found"}
+26/02/2023 22:29:14 devpinoyLogger Verifying Response Time
+26/02/2023 22:29:14 devpinoyLogger Response time is 656
+26/02/2023 22:29:14 devpinoyLogger Verifying Status Code
+26/02/2023 22:29:14 devpinoyLogger Status code is 404
+26/02/2023 22:30:50 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:30:54 devpinoyLogger Verifying Response Body
+26/02/2023 22:30:54 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 22:30:54 devpinoyLogger Verifying Response Time
+26/02/2023 22:30:54 devpinoyLogger Response time is 642
+26/02/2023 22:30:54 devpinoyLogger Verifying Status Code
+26/02/2023 22:30:54 devpinoyLogger Status code is 200
+26/02/2023 22:31:29 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:31:33 devpinoyLogger Verifying Response Body
+26/02/2023 22:31:33 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 22:31:33 devpinoyLogger Verifying Response Time
+26/02/2023 22:31:33 devpinoyLogger Response time is 617
+26/02/2023 22:31:33 devpinoyLogger Verifying Status Code
+26/02/2023 22:31:33 devpinoyLogger Status code is 200
+26/02/2023 22:32:15 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:32:19 devpinoyLogger Verifying Response Body
+26/02/2023 22:32:19 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 22:32:19 devpinoyLogger Verifying Response Time
+26/02/2023 22:32:19 devpinoyLogger Response time is 662
+26/02/2023 22:32:19 devpinoyLogger Verifying Status Code
+26/02/2023 22:32:19 devpinoyLogger Status code is 200
+26/02/2023 22:34:43 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:34:48 devpinoyLogger Verifying Response Body
+26/02/2023 22:34:48 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 22:34:48 devpinoyLogger Verifying Response Time
+26/02/2023 22:34:48 devpinoyLogger Response time is 628
+26/02/2023 22:34:48 devpinoyLogger Verifying Status Code
+26/02/2023 22:34:48 devpinoyLogger Status code is 200
+26/02/2023 22:35:08 devpinoyLogger -------------------Verifying Get All product API-----------------------
+26/02/2023 22:35:11 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:11 devpinoyLogger Response time is 629
+26/02/2023 22:35:11 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:11 devpinoyLogger Status code is 200
+26/02/2023 22:35:11 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+26/02/2023 22:35:14 devpinoyLogger Verifying Response Body
+26/02/2023 22:35:14 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+26/02/2023 22:35:14 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:14 devpinoyLogger Response time is 165
+26/02/2023 22:35:14 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:14 devpinoyLogger Status code is 200
+26/02/2023 22:35:14 devpinoyLogger ----------------------Verifying Search Product API--------------------
+26/02/2023 22:35:18 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:18 devpinoyLogger Response time is 173
+26/02/2023 22:35:18 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:18 devpinoyLogger Status code is 200
+26/02/2023 22:35:18 devpinoyLogger ----------------------verifying Add product API--------------------
+26/02/2023 22:35:20 devpinoyLogger Verifying Response Body
+26/02/2023 22:35:20 devpinoyLogger Response body is {"id":101}
+26/02/2023 22:35:20 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:20 devpinoyLogger Response time is 192
+26/02/2023 22:35:20 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:20 devpinoyLogger Status code is 200
+26/02/2023 22:35:20 devpinoyLogger Verifying Response Body Value
+26/02/2023 22:35:20 devpinoyLogger Response body value is {"id":101}
+26/02/2023 22:35:20 devpinoyLogger ----------------------Verifying Update Product API--------------------
+26/02/2023 22:35:22 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:22 devpinoyLogger Response time is 158
+26/02/2023 22:35:22 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:22 devpinoyLogger Status code is 200
+26/02/2023 22:35:22 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+26/02/2023 22:35:26 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:26 devpinoyLogger Response time is 174
+26/02/2023 22:35:26 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:26 devpinoyLogger Status code is 200
+26/02/2023 22:35:26 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+26/02/2023 22:35:29 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:29 devpinoyLogger Response time is 205
+26/02/2023 22:35:29 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:29 devpinoyLogger Status code is 200
+26/02/2023 22:35:29 devpinoyLogger -------------------verifying Delete product API-----------------------
+26/02/2023 22:35:31 devpinoyLogger Verifying Response Time
+26/02/2023 22:35:31 devpinoyLogger Response time is 163
+26/02/2023 22:35:31 devpinoyLogger Verifying Status Code
+26/02/2023 22:35:31 devpinoyLogger Status code is 200
+26/02/2023 22:35:31 devpinoyLogger Verifying Response Body
+26/02/2023 22:35:31 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-27T02:35:29.434Z"}
+27/02/2023 19:10:33 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 19:10:36 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:36 devpinoyLogger Response time is 683
+27/02/2023 19:10:36 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:36 devpinoyLogger Status code is 200
+27/02/2023 19:10:36 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 19:10:39 devpinoyLogger Verifying Response Body
+27/02/2023 19:10:39 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 19:10:39 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:39 devpinoyLogger Response time is 185
+27/02/2023 19:10:39 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:39 devpinoyLogger Status code is 200
+27/02/2023 19:10:39 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 19:10:42 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:42 devpinoyLogger Response time is 163
+27/02/2023 19:10:42 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:42 devpinoyLogger Status code is 200
+27/02/2023 19:10:42 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 19:10:44 devpinoyLogger Verifying Response Body
+27/02/2023 19:10:44 devpinoyLogger Response body is {"id":101}
+27/02/2023 19:10:44 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:44 devpinoyLogger Response time is 170
+27/02/2023 19:10:44 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:44 devpinoyLogger Status code is 200
+27/02/2023 19:10:44 devpinoyLogger Verifying Response Body Value
+27/02/2023 19:10:44 devpinoyLogger Response body value is {"id":101}
+27/02/2023 19:10:45 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 19:10:47 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:47 devpinoyLogger Response time is 148
+27/02/2023 19:10:47 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:47 devpinoyLogger Status code is 200
+27/02/2023 19:10:47 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 19:10:50 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:50 devpinoyLogger Response time is 143
+27/02/2023 19:10:50 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:50 devpinoyLogger Status code is 200
+27/02/2023 19:10:50 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 19:10:53 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:53 devpinoyLogger Response time is 172
+27/02/2023 19:10:53 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:53 devpinoyLogger Status code is 200
+27/02/2023 19:10:53 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 19:10:55 devpinoyLogger Verifying Response Time
+27/02/2023 19:10:55 devpinoyLogger Response time is 160
+27/02/2023 19:10:55 devpinoyLogger Verifying Status Code
+27/02/2023 19:10:55 devpinoyLogger Status code is 200
+27/02/2023 19:10:55 devpinoyLogger Verifying Response Body
+27/02/2023 19:10:55 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-27T23:10:52.424Z"}
+27/02/2023 19:15:13 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 19:15:16 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:16 devpinoyLogger Response time is 532
+27/02/2023 19:15:16 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:16 devpinoyLogger Status code is 200
+27/02/2023 19:15:16 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 19:15:19 devpinoyLogger Verifying Response Body
+27/02/2023 19:15:19 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 19:15:19 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:19 devpinoyLogger Response time is 176
+27/02/2023 19:15:19 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:19 devpinoyLogger Status code is 200
+27/02/2023 19:15:19 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 19:15:22 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:22 devpinoyLogger Response time is 323
+27/02/2023 19:15:22 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:22 devpinoyLogger Status code is 200
+27/02/2023 19:15:22 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 19:15:25 devpinoyLogger Verifying Response Body
+27/02/2023 19:15:25 devpinoyLogger Response body is {"id":101}
+27/02/2023 19:15:25 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:25 devpinoyLogger Response time is 150
+27/02/2023 19:15:25 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:25 devpinoyLogger Status code is 200
+27/02/2023 19:15:25 devpinoyLogger Verifying Response Body Value
+27/02/2023 19:15:25 devpinoyLogger Response body value is {"id":101}
+27/02/2023 19:15:25 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 19:15:27 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:27 devpinoyLogger Response time is 153
+27/02/2023 19:15:27 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:27 devpinoyLogger Status code is 200
+27/02/2023 19:15:27 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 19:15:30 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:30 devpinoyLogger Response time is 154
+27/02/2023 19:15:30 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:30 devpinoyLogger Status code is 200
+27/02/2023 19:15:30 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 19:15:34 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:34 devpinoyLogger Response time is 203
+27/02/2023 19:15:34 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:34 devpinoyLogger Status code is 200
+27/02/2023 19:15:34 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 19:15:36 devpinoyLogger Verifying Response Time
+27/02/2023 19:15:36 devpinoyLogger Response time is 146
+27/02/2023 19:15:36 devpinoyLogger Verifying Status Code
+27/02/2023 19:15:36 devpinoyLogger Status code is 200
+27/02/2023 19:15:36 devpinoyLogger Verifying Response Body
+27/02/2023 19:15:36 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-27T23:15:32.673Z"}
+27/02/2023 19:23:18 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 19:23:25 devpinoyLogger Verifying Response Body
+27/02/2023 19:23:25 devpinoyLogger Response body is {"id":101}
+27/02/2023 19:23:25 devpinoyLogger Verifying Response Time
+27/02/2023 19:23:25 devpinoyLogger Response time is 2230
+27/02/2023 19:23:25 devpinoyLogger Verifying Status Code
+27/02/2023 19:23:25 devpinoyLogger Status code is 200
+27/02/2023 19:23:25 devpinoyLogger Verifying Response Body Value
+27/02/2023 19:23:25 devpinoyLogger Response body value is {"id":101}
+27/02/2023 19:24:00 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 19:24:04 devpinoyLogger Verifying Response Body
+27/02/2023 19:24:04 devpinoyLogger Response body is {"id":101}
+27/02/2023 19:24:04 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:04 devpinoyLogger Response time is 1118
+27/02/2023 19:24:04 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:04 devpinoyLogger Status code is 200
+27/02/2023 19:24:04 devpinoyLogger Verifying Response Body Value
+27/02/2023 19:24:04 devpinoyLogger Response body value is {"id":101}
+27/02/2023 19:24:16 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 19:24:20 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:20 devpinoyLogger Response time is 984
+27/02/2023 19:24:20 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:20 devpinoyLogger Status code is 200
+27/02/2023 19:24:20 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 19:24:23 devpinoyLogger Verifying Response Body
+27/02/2023 19:24:23 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 19:24:23 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:23 devpinoyLogger Response time is 159
+27/02/2023 19:24:23 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:23 devpinoyLogger Status code is 200
+27/02/2023 19:24:23 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 19:24:27 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:27 devpinoyLogger Response time is 172
+27/02/2023 19:24:27 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:27 devpinoyLogger Status code is 200
+27/02/2023 19:24:27 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 19:24:29 devpinoyLogger Verifying Response Body
+27/02/2023 19:24:29 devpinoyLogger Response body is {"id":101}
+27/02/2023 19:24:29 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:29 devpinoyLogger Response time is 165
+27/02/2023 19:24:29 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:29 devpinoyLogger Status code is 200
+27/02/2023 19:24:29 devpinoyLogger Verifying Response Body Value
+27/02/2023 19:24:29 devpinoyLogger Response body value is {"id":101}
+27/02/2023 19:24:29 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 19:24:31 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:31 devpinoyLogger Response time is 162
+27/02/2023 19:24:31 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:31 devpinoyLogger Status code is 200
+27/02/2023 19:24:31 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 19:24:34 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:34 devpinoyLogger Response time is 146
+27/02/2023 19:24:34 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:34 devpinoyLogger Status code is 200
+27/02/2023 19:24:34 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 19:24:38 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:38 devpinoyLogger Response time is 152
+27/02/2023 19:24:38 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:38 devpinoyLogger Status code is 200
+27/02/2023 19:24:38 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 19:24:40 devpinoyLogger Verifying Response Time
+27/02/2023 19:24:40 devpinoyLogger Response time is 178
+27/02/2023 19:24:40 devpinoyLogger Verifying Status Code
+27/02/2023 19:24:40 devpinoyLogger Status code is 200
+27/02/2023 19:24:40 devpinoyLogger Verifying Response Body
+27/02/2023 19:24:40 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-27T23:24:36.766Z"}
+27/02/2023 20:17:24 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:17:27 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:27 devpinoyLogger Response time is 780
+27/02/2023 20:17:27 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:27 devpinoyLogger Status code is 200
+27/02/2023 20:17:27 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:17:30 devpinoyLogger Verifying Response Body
+27/02/2023 20:17:30 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:17:30 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:30 devpinoyLogger Response time is 155
+27/02/2023 20:17:30 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:30 devpinoyLogger Status code is 200
+27/02/2023 20:17:30 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:17:34 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:34 devpinoyLogger Response time is 297
+27/02/2023 20:17:34 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:34 devpinoyLogger Status code is 200
+27/02/2023 20:17:34 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:17:36 devpinoyLogger Verifying Response Body
+27/02/2023 20:17:36 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:17:36 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:36 devpinoyLogger Response time is 166
+27/02/2023 20:17:36 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:36 devpinoyLogger Status code is 200
+27/02/2023 20:17:36 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:17:36 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:17:36 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:17:38 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:38 devpinoyLogger Response time is 154
+27/02/2023 20:17:38 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:38 devpinoyLogger Status code is 200
+27/02/2023 20:17:38 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:17:42 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:42 devpinoyLogger Response time is 139
+27/02/2023 20:17:42 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:42 devpinoyLogger Status code is 200
+27/02/2023 20:17:42 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:17:45 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:45 devpinoyLogger Response time is 153
+27/02/2023 20:17:45 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:45 devpinoyLogger Status code is 200
+27/02/2023 20:17:45 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:17:47 devpinoyLogger Verifying Response Time
+27/02/2023 20:17:47 devpinoyLogger Response time is 304
+27/02/2023 20:17:47 devpinoyLogger Verifying Status Code
+27/02/2023 20:17:47 devpinoyLogger Status code is 200
+27/02/2023 20:17:47 devpinoyLogger Verifying Response Body
+27/02/2023 20:17:47 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:17:44.019Z"}
+27/02/2023 20:18:52 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:18:54 devpinoyLogger Verifying Response Time
+27/02/2023 20:18:54 devpinoyLogger Response time is 561
+27/02/2023 20:18:54 devpinoyLogger Verifying Status Code
+27/02/2023 20:18:54 devpinoyLogger Status code is 200
+27/02/2023 20:18:54 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:18:58 devpinoyLogger Verifying Response Body
+27/02/2023 20:18:58 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:18:58 devpinoyLogger Verifying Response Time
+27/02/2023 20:18:58 devpinoyLogger Response time is 162
+27/02/2023 20:18:58 devpinoyLogger Verifying Status Code
+27/02/2023 20:18:58 devpinoyLogger Status code is 200
+27/02/2023 20:18:58 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:19:01 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:01 devpinoyLogger Response time is 162
+27/02/2023 20:19:01 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:01 devpinoyLogger Status code is 200
+27/02/2023 20:19:01 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:19:03 devpinoyLogger Verifying Response Body
+27/02/2023 20:19:03 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:19:03 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:03 devpinoyLogger Response time is 173
+27/02/2023 20:19:03 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:03 devpinoyLogger Status code is 200
+27/02/2023 20:19:03 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:19:03 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:19:03 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:19:05 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:05 devpinoyLogger Response time is 146
+27/02/2023 20:19:05 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:05 devpinoyLogger Status code is 200
+27/02/2023 20:19:05 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:19:09 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:09 devpinoyLogger Response time is 162
+27/02/2023 20:19:09 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:09 devpinoyLogger Status code is 200
+27/02/2023 20:19:09 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:19:12 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:12 devpinoyLogger Response time is 162
+27/02/2023 20:19:12 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:12 devpinoyLogger Status code is 200
+27/02/2023 20:19:12 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:19:14 devpinoyLogger Verifying Response Time
+27/02/2023 20:19:14 devpinoyLogger Response time is 158
+27/02/2023 20:19:14 devpinoyLogger Verifying Status Code
+27/02/2023 20:19:14 devpinoyLogger Status code is 200
+27/02/2023 20:19:14 devpinoyLogger Verifying Response Body
+27/02/2023 20:19:14 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:19:11.005Z"}
+27/02/2023 20:24:40 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:24:43 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:43 devpinoyLogger Response time is 540
+27/02/2023 20:24:43 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:43 devpinoyLogger Status code is 200
+27/02/2023 20:24:43 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:24:46 devpinoyLogger Verifying Response Body
+27/02/2023 20:24:46 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:24:46 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:46 devpinoyLogger Response time is 158
+27/02/2023 20:24:46 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:46 devpinoyLogger Status code is 200
+27/02/2023 20:24:46 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:24:50 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:50 devpinoyLogger Response time is 154
+27/02/2023 20:24:50 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:50 devpinoyLogger Status code is 200
+27/02/2023 20:24:50 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:24:52 devpinoyLogger Verifying Response Body
+27/02/2023 20:24:52 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:24:52 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:52 devpinoyLogger Response time is 172
+27/02/2023 20:24:52 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:52 devpinoyLogger Status code is 200
+27/02/2023 20:24:52 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:24:52 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:24:52 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:24:54 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:54 devpinoyLogger Response time is 149
+27/02/2023 20:24:54 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:54 devpinoyLogger Status code is 200
+27/02/2023 20:24:54 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:24:57 devpinoyLogger Verifying Response Time
+27/02/2023 20:24:57 devpinoyLogger Response time is 144
+27/02/2023 20:24:57 devpinoyLogger Verifying Status Code
+27/02/2023 20:24:57 devpinoyLogger Status code is 200
+27/02/2023 20:24:57 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:25:01 devpinoyLogger Verifying Response Time
+27/02/2023 20:25:01 devpinoyLogger Response time is 171
+27/02/2023 20:25:01 devpinoyLogger Verifying Status Code
+27/02/2023 20:25:01 devpinoyLogger Status code is 200
+27/02/2023 20:25:01 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:25:03 devpinoyLogger Verifying Response Time
+27/02/2023 20:25:03 devpinoyLogger Response time is 157
+27/02/2023 20:25:03 devpinoyLogger Verifying Status Code
+27/02/2023 20:25:03 devpinoyLogger Status code is 200
+27/02/2023 20:25:03 devpinoyLogger Verifying Response Body
+27/02/2023 20:25:03 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:24:59.753Z"}
+27/02/2023 20:28:24 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:28:27 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:27 devpinoyLogger Response time is 586
+27/02/2023 20:28:27 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:27 devpinoyLogger Status code is 200
+27/02/2023 20:28:27 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:28:31 devpinoyLogger Verifying Response Body
+27/02/2023 20:28:31 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:28:31 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:31 devpinoyLogger Response time is 180
+27/02/2023 20:28:31 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:31 devpinoyLogger Status code is 200
+27/02/2023 20:28:31 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:28:34 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:34 devpinoyLogger Response time is 177
+27/02/2023 20:28:34 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:34 devpinoyLogger Status code is 200
+27/02/2023 20:28:34 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:28:36 devpinoyLogger Verifying Response Body
+27/02/2023 20:28:36 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:28:36 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:36 devpinoyLogger Response time is 154
+27/02/2023 20:28:36 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:36 devpinoyLogger Status code is 200
+27/02/2023 20:28:36 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:28:36 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:28:36 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:28:39 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:39 devpinoyLogger Response time is 168
+27/02/2023 20:28:39 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:39 devpinoyLogger Status code is 200
+27/02/2023 20:28:39 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:28:42 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:42 devpinoyLogger Response time is 168
+27/02/2023 20:28:42 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:42 devpinoyLogger Status code is 200
+27/02/2023 20:28:42 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:28:45 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:45 devpinoyLogger Response time is 164
+27/02/2023 20:28:45 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:45 devpinoyLogger Status code is 200
+27/02/2023 20:28:45 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:28:47 devpinoyLogger Verifying Response Time
+27/02/2023 20:28:47 devpinoyLogger Response time is 300
+27/02/2023 20:28:47 devpinoyLogger Verifying Status Code
+27/02/2023 20:28:47 devpinoyLogger Status code is 200
+27/02/2023 20:28:47 devpinoyLogger Verifying Response Body
+27/02/2023 20:28:47 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:28:44.178Z"}
+27/02/2023 20:31:52 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:31:55 devpinoyLogger Verifying Response Time
+27/02/2023 20:31:55 devpinoyLogger Response time is 547
+27/02/2023 20:31:55 devpinoyLogger Verifying Status Code
+27/02/2023 20:31:55 devpinoyLogger Status code is 200
+27/02/2023 20:31:55 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:31:59 devpinoyLogger Verifying Response Body
+27/02/2023 20:31:59 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:31:59 devpinoyLogger Verifying Response Time
+27/02/2023 20:31:59 devpinoyLogger Response time is 151
+27/02/2023 20:31:59 devpinoyLogger Verifying Status Code
+27/02/2023 20:31:59 devpinoyLogger Status code is 200
+27/02/2023 20:31:59 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:32:02 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:02 devpinoyLogger Response time is 315
+27/02/2023 20:32:02 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:02 devpinoyLogger Status code is 200
+27/02/2023 20:32:02 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:32:04 devpinoyLogger Verifying Response Body
+27/02/2023 20:32:04 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:32:04 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:04 devpinoyLogger Response time is 263
+27/02/2023 20:32:04 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:04 devpinoyLogger Status code is 200
+27/02/2023 20:32:04 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:32:04 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:32:04 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:32:07 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:07 devpinoyLogger Response time is 181
+27/02/2023 20:32:07 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:07 devpinoyLogger Status code is 200
+27/02/2023 20:32:07 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:32:10 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:10 devpinoyLogger Response time is 144
+27/02/2023 20:32:10 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:10 devpinoyLogger Status code is 200
+27/02/2023 20:32:10 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:32:13 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:13 devpinoyLogger Response time is 170
+27/02/2023 20:32:13 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:13 devpinoyLogger Status code is 200
+27/02/2023 20:32:13 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:32:15 devpinoyLogger Verifying Response Time
+27/02/2023 20:32:15 devpinoyLogger Response time is 147
+27/02/2023 20:32:15 devpinoyLogger Verifying Status Code
+27/02/2023 20:32:15 devpinoyLogger Status code is 200
+27/02/2023 20:32:15 devpinoyLogger Verifying Response Body
+27/02/2023 20:32:15 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:32:12.165Z"}
+27/02/2023 20:36:13 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:36:15 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:15 devpinoyLogger Response time is 524
+27/02/2023 20:36:15 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:15 devpinoyLogger Status code is 200
+27/02/2023 20:36:15 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:36:19 devpinoyLogger Verifying Response Body
+27/02/2023 20:36:19 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:36:19 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:19 devpinoyLogger Response time is 165
+27/02/2023 20:36:19 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:19 devpinoyLogger Status code is 200
+27/02/2023 20:36:19 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:36:22 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:22 devpinoyLogger Response time is 159
+27/02/2023 20:36:22 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:22 devpinoyLogger Status code is 200
+27/02/2023 20:36:22 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:36:24 devpinoyLogger Verifying Response Body
+27/02/2023 20:36:24 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:36:24 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:24 devpinoyLogger Response time is 159
+27/02/2023 20:36:24 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:24 devpinoyLogger Status code is 200
+27/02/2023 20:36:24 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:36:24 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:36:24 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:36:27 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:27 devpinoyLogger Response time is 167
+27/02/2023 20:36:27 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:27 devpinoyLogger Status code is 200
+27/02/2023 20:36:27 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:36:30 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:30 devpinoyLogger Response time is 159
+27/02/2023 20:36:30 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:30 devpinoyLogger Status code is 200
+27/02/2023 20:36:30 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:36:33 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:33 devpinoyLogger Response time is 161
+27/02/2023 20:36:33 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:33 devpinoyLogger Status code is 200
+27/02/2023 20:36:33 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:36:35 devpinoyLogger Verifying Response Time
+27/02/2023 20:36:35 devpinoyLogger Response time is 151
+27/02/2023 20:36:35 devpinoyLogger Verifying Status Code
+27/02/2023 20:36:35 devpinoyLogger Status code is 200
+27/02/2023 20:36:35 devpinoyLogger Verifying Response Body
+27/02/2023 20:36:35 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:36:31.998Z"}
+27/02/2023 20:41:53 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:41:56 devpinoyLogger Verifying Response Time
+27/02/2023 20:41:56 devpinoyLogger Response time is 547
+27/02/2023 20:41:56 devpinoyLogger Verifying Status Code
+27/02/2023 20:41:56 devpinoyLogger Status code is 200
+27/02/2023 20:41:56 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:41:59 devpinoyLogger Verifying Response Body
+27/02/2023 20:41:59 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:41:59 devpinoyLogger Verifying Response Time
+27/02/2023 20:41:59 devpinoyLogger Response time is 168
+27/02/2023 20:41:59 devpinoyLogger Verifying Status Code
+27/02/2023 20:41:59 devpinoyLogger Status code is 200
+27/02/2023 20:41:59 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:42:02 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:02 devpinoyLogger Response time is 247
+27/02/2023 20:42:02 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:02 devpinoyLogger Status code is 200
+27/02/2023 20:42:02 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:42:04 devpinoyLogger Verifying Response Body
+27/02/2023 20:42:04 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:42:04 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:04 devpinoyLogger Response time is 193
+27/02/2023 20:42:04 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:04 devpinoyLogger Status code is 200
+27/02/2023 20:42:04 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:42:04 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:42:05 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:42:07 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:07 devpinoyLogger Response time is 191
+27/02/2023 20:42:07 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:07 devpinoyLogger Status code is 200
+27/02/2023 20:42:07 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:42:10 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:10 devpinoyLogger Response time is 150
+27/02/2023 20:42:10 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:10 devpinoyLogger Status code is 200
+27/02/2023 20:42:10 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:42:13 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:13 devpinoyLogger Response time is 180
+27/02/2023 20:42:13 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:13 devpinoyLogger Status code is 200
+27/02/2023 20:42:13 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:42:15 devpinoyLogger Verifying Response Time
+27/02/2023 20:42:15 devpinoyLogger Response time is 270
+27/02/2023 20:42:15 devpinoyLogger Verifying Status Code
+27/02/2023 20:42:15 devpinoyLogger Status code is 200
+27/02/2023 20:42:15 devpinoyLogger Verifying Response Body
+27/02/2023 20:42:15 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:42:12.351Z"}
+27/02/2023 20:45:22 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:45:25 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:25 devpinoyLogger Response time is 535
+27/02/2023 20:45:25 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:25 devpinoyLogger Status code is 200
+27/02/2023 20:45:25 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:45:28 devpinoyLogger Verifying Response Body
+27/02/2023 20:45:28 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:45:28 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:28 devpinoyLogger Response time is 152
+27/02/2023 20:45:28 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:28 devpinoyLogger Status code is 200
+27/02/2023 20:45:28 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:45:32 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:32 devpinoyLogger Response time is 219
+27/02/2023 20:45:32 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:32 devpinoyLogger Status code is 200
+27/02/2023 20:45:32 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:45:34 devpinoyLogger Verifying Response Body
+27/02/2023 20:45:34 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:45:34 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:34 devpinoyLogger Response time is 159
+27/02/2023 20:45:34 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:34 devpinoyLogger Status code is 200
+27/02/2023 20:45:34 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:45:34 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:45:34 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:45:36 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:36 devpinoyLogger Response time is 166
+27/02/2023 20:45:36 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:36 devpinoyLogger Status code is 200
+27/02/2023 20:45:36 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:45:40 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:40 devpinoyLogger Response time is 196
+27/02/2023 20:45:40 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:40 devpinoyLogger Status code is 200
+27/02/2023 20:45:40 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:45:43 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:43 devpinoyLogger Response time is 150
+27/02/2023 20:45:43 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:43 devpinoyLogger Status code is 200
+27/02/2023 20:45:43 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:45:45 devpinoyLogger Verifying Response Time
+27/02/2023 20:45:45 devpinoyLogger Response time is 156
+27/02/2023 20:45:45 devpinoyLogger Verifying Status Code
+27/02/2023 20:45:45 devpinoyLogger Status code is 200
+27/02/2023 20:45:45 devpinoyLogger Verifying Response Body
+27/02/2023 20:45:45 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:45:41.892Z"}
+27/02/2023 20:47:40 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:47:43 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:43 devpinoyLogger Response time is 552
+27/02/2023 20:47:43 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:43 devpinoyLogger Status code is 200
+27/02/2023 20:47:43 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:47:46 devpinoyLogger Verifying Response Body
+27/02/2023 20:47:46 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:47:46 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:46 devpinoyLogger Response time is 169
+27/02/2023 20:47:46 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:46 devpinoyLogger Status code is 200
+27/02/2023 20:47:46 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:47:50 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:50 devpinoyLogger Response time is 180
+27/02/2023 20:47:50 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:50 devpinoyLogger Status code is 200
+27/02/2023 20:47:50 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:47:52 devpinoyLogger Verifying Response Body
+27/02/2023 20:47:52 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:47:52 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:52 devpinoyLogger Response time is 160
+27/02/2023 20:47:52 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:52 devpinoyLogger Status code is 200
+27/02/2023 20:47:52 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:47:52 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:47:52 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:47:54 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:54 devpinoyLogger Response time is 174
+27/02/2023 20:47:54 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:54 devpinoyLogger Status code is 200
+27/02/2023 20:47:54 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:47:57 devpinoyLogger Verifying Response Time
+27/02/2023 20:47:57 devpinoyLogger Response time is 156
+27/02/2023 20:47:57 devpinoyLogger Verifying Status Code
+27/02/2023 20:47:57 devpinoyLogger Status code is 200
+27/02/2023 20:47:57 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:48:01 devpinoyLogger Verifying Response Time
+27/02/2023 20:48:01 devpinoyLogger Response time is 150
+27/02/2023 20:48:01 devpinoyLogger Verifying Status Code
+27/02/2023 20:48:01 devpinoyLogger Status code is 200
+27/02/2023 20:48:01 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:48:03 devpinoyLogger Verifying Response Time
+27/02/2023 20:48:03 devpinoyLogger Response time is 160
+27/02/2023 20:48:03 devpinoyLogger Verifying Status Code
+27/02/2023 20:48:03 devpinoyLogger Status code is 200
+27/02/2023 20:48:03 devpinoyLogger Verifying Response Body
+27/02/2023 20:48:03 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:47:59.788Z"}
+27/02/2023 20:49:04 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 20:49:07 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:07 devpinoyLogger Response time is 557
+27/02/2023 20:49:07 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:07 devpinoyLogger Status code is 200
+27/02/2023 20:49:07 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 20:49:10 devpinoyLogger Verifying Response Body
+27/02/2023 20:49:10 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 20:49:10 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:10 devpinoyLogger Response time is 162
+27/02/2023 20:49:10 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:10 devpinoyLogger Status code is 200
+27/02/2023 20:49:10 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 20:49:14 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:14 devpinoyLogger Response time is 164
+27/02/2023 20:49:14 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:14 devpinoyLogger Status code is 200
+27/02/2023 20:49:14 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 20:49:16 devpinoyLogger Verifying Response Body
+27/02/2023 20:49:16 devpinoyLogger Response body is {"id":101}
+27/02/2023 20:49:16 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:16 devpinoyLogger Response time is 199
+27/02/2023 20:49:16 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:16 devpinoyLogger Status code is 200
+27/02/2023 20:49:16 devpinoyLogger Verifying Response Body Value
+27/02/2023 20:49:16 devpinoyLogger Response body value is {"id":101}
+27/02/2023 20:49:16 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 20:49:18 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:18 devpinoyLogger Response time is 157
+27/02/2023 20:49:18 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:18 devpinoyLogger Status code is 200
+27/02/2023 20:49:18 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 20:49:22 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:22 devpinoyLogger Response time is 166
+27/02/2023 20:49:22 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:22 devpinoyLogger Status code is 200
+27/02/2023 20:49:22 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 20:49:25 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:25 devpinoyLogger Response time is 212
+27/02/2023 20:49:25 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:25 devpinoyLogger Status code is 200
+27/02/2023 20:49:25 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 20:49:27 devpinoyLogger Verifying Response Time
+27/02/2023 20:49:27 devpinoyLogger Response time is 174
+27/02/2023 20:49:27 devpinoyLogger Verifying Status Code
+27/02/2023 20:49:27 devpinoyLogger Status code is 200
+27/02/2023 20:49:27 devpinoyLogger Verifying Response Body
+27/02/2023 20:49:27 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T00:49:23.959Z"}
+27/02/2023 21:47:28 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 21:47:31 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:31 devpinoyLogger Response time is 476
+27/02/2023 21:47:31 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:31 devpinoyLogger Status code is 200
+27/02/2023 21:47:31 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 21:47:34 devpinoyLogger Verifying Response Body
+27/02/2023 21:47:34 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 21:47:34 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:34 devpinoyLogger Response time is 180
+27/02/2023 21:47:34 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:34 devpinoyLogger Status code is 200
+27/02/2023 21:47:34 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 21:47:37 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:37 devpinoyLogger Response time is 240
+27/02/2023 21:47:37 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:37 devpinoyLogger Status code is 200
+27/02/2023 21:47:37 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 21:47:40 devpinoyLogger Verifying Response Body
+27/02/2023 21:47:40 devpinoyLogger Response body is {"id":101}
+27/02/2023 21:47:40 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:40 devpinoyLogger Response time is 236
+27/02/2023 21:47:40 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:40 devpinoyLogger Status code is 200
+27/02/2023 21:47:40 devpinoyLogger Verifying Response Body Value
+27/02/2023 21:47:40 devpinoyLogger Response body value is {"id":101}
+27/02/2023 21:47:40 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 21:47:42 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:42 devpinoyLogger Response time is 170
+27/02/2023 21:47:42 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:42 devpinoyLogger Status code is 200
+27/02/2023 21:47:42 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 21:47:45 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:45 devpinoyLogger Response time is 155
+27/02/2023 21:47:45 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:45 devpinoyLogger Status code is 200
+27/02/2023 21:47:45 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 21:47:48 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:48 devpinoyLogger Response time is 157
+27/02/2023 21:47:48 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:48 devpinoyLogger Status code is 200
+27/02/2023 21:47:48 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 21:47:51 devpinoyLogger Verifying Response Time
+27/02/2023 21:47:51 devpinoyLogger Response time is 172
+27/02/2023 21:47:51 devpinoyLogger Verifying Status Code
+27/02/2023 21:47:51 devpinoyLogger Status code is 200
+27/02/2023 21:47:51 devpinoyLogger Verifying Response Body
+27/02/2023 21:47:51 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T01:47:47.477Z"}
+27/02/2023 21:48:26 devpinoyLogger -------------------Verifying Get All product API-----------------------
+27/02/2023 21:48:29 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:29 devpinoyLogger Response time is 502
+27/02/2023 21:48:29 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:29 devpinoyLogger Status code is 200
+27/02/2023 21:48:29 devpinoyLogger ----------------------Verifying Get Single Product API--------------------
+27/02/2023 21:48:32 devpinoyLogger Verifying Response Body
+27/02/2023 21:48:32 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"]}
+27/02/2023 21:48:32 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:32 devpinoyLogger Response time is 156
+27/02/2023 21:48:32 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:32 devpinoyLogger Status code is 200
+27/02/2023 21:48:32 devpinoyLogger ----------------------Verifying Search Product API--------------------
+27/02/2023 21:48:35 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:35 devpinoyLogger Response time is 204
+27/02/2023 21:48:35 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:35 devpinoyLogger Status code is 200
+27/02/2023 21:48:35 devpinoyLogger ----------------------verifying Add product API--------------------
+27/02/2023 21:48:37 devpinoyLogger Verifying Response Body
+27/02/2023 21:48:37 devpinoyLogger Response body is {"id":101}
+27/02/2023 21:48:37 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:37 devpinoyLogger Response time is 153
+27/02/2023 21:48:37 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:37 devpinoyLogger Status code is 200
+27/02/2023 21:48:37 devpinoyLogger Verifying Response Body Value
+27/02/2023 21:48:37 devpinoyLogger Response body value is {"id":101}
+27/02/2023 21:48:37 devpinoyLogger ----------------------Verifying Update Product API--------------------
+27/02/2023 21:48:40 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:40 devpinoyLogger Response time is 176
+27/02/2023 21:48:40 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:40 devpinoyLogger Status code is 200
+27/02/2023 21:48:40 devpinoyLogger -------------------Verifying Get All Product Categories API-----------------------
+27/02/2023 21:48:43 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:43 devpinoyLogger Response time is 170
+27/02/2023 21:48:43 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:43 devpinoyLogger Status code is 200
+27/02/2023 21:48:43 devpinoyLogger ----------------------Verifying Get Product of Catrgory API--------------------
+27/02/2023 21:48:46 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:46 devpinoyLogger Response time is 147
+27/02/2023 21:48:46 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:46 devpinoyLogger Status code is 200
+27/02/2023 21:48:46 devpinoyLogger -------------------verifying Delete product API-----------------------
+27/02/2023 21:48:48 devpinoyLogger Verifying Response Time
+27/02/2023 21:48:48 devpinoyLogger Response time is 157
+27/02/2023 21:48:48 devpinoyLogger Verifying Status Code
+27/02/2023 21:48:48 devpinoyLogger Status code is 200
+27/02/2023 21:48:48 devpinoyLogger Verifying Response Body
+27/02/2023 21:48:48 devpinoyLogger Response body is {"id":1,"title":"iPhone 9","description":"An apple mobile which is nothing like apple","price":549,"discountPercentage":12.96,"rating":4.69,"stock":94,"brand":"Apple","category":"smartphones","thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg","images":["https://i.dummyjson.com/data/products/1/1.jpg","https://i.dummyjson.com/data/products/1/2.jpg","https://i.dummyjson.com/data/products/1/3.jpg","https://i.dummyjson.com/data/products/1/4.jpg","https://i.dummyjson.com/data/products/1/thumbnail.jpg"],"isDeleted":true,"deletedOn":"2023-02-28T01:48:45.037Z"}
